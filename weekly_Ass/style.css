@@ -15,7 +15,7 @@
 .header_wrap {
     display: flex;
     justify-content: center;
-    background-color: violet;
+    background-color: rgb(58, 224, 24);
 }
 
 .navbar_wrap {
